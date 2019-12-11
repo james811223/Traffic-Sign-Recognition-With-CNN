@@ -1,2 +1,2 @@
-# Trafic-Sign-Secognition-With-CNN
+# Trafic-Sign-Recognition-With-CNN
 Image Recognition
